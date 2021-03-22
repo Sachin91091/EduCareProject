@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HomePageLinks">
+
+<listeners>
+<listener class-name = "school.educare.extentreportlistener.ExtentReportListener"/>
+</listeners>
+
+
+  <test name="HomePageLinkTest">
+    <classes>
+      <class name="school.educare.testcases.HomePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
