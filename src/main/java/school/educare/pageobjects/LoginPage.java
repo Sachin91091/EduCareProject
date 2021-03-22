@@ -1,5 +1,7 @@
 package school.educare.pageobjects;
 
-public class LoginPage {
+import school.educare.base.TestBase;
+
+public class LoginPage extends TestBase {
 
 }
